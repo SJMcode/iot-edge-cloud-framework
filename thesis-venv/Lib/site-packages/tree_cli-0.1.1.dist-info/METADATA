@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: tree-cli
+Version: 0.1.1
+Summary: CLI for Tree-DB
+Home-page: https://gitlab.com/everest-code/tree-db/cli
+Author: Sebastian Gaviria Tangarife
+Author-email: sgt.911@outlook.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://gitlab.com/everest-code/tree-db/cli/-/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Tree-DB CLI
+Terminal Client (CLI) for Tree-DB
+
+

@@ -1,0 +1,3 @@
+[console_scripts]
+tree-cli = tree_cli:main
+
