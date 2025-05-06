@@ -22,4 +22,4 @@ This research contributes valuable insights into creating "green" IIoT systems t
 Service (QoS) by meeting stringent energy constraints by illustrating the effective integration of machine 
 learning models for intelligent resource management and task offloading in fog-cloud environments, this 
 work provides a foundation for developing more sustainable and efficient industrial automation and smart 
-environment solutions. ```
+environment solutions. 
