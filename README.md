@@ -2,7 +2,8 @@
 This project focuses on developing an intelligent framework that optimizes resource collaboration between edge and cloud computing for IoT applications.
 
 ## Abstract
-``` With the rapid expansion of Industrial Internet of Things (IIoT) applications, energy 
+```
+With the rapid expansion of Industrial Internet of Things (IIoT) applications, energy 
 consumption and delay-sensitive task offloading remain critical challenges, particularly in fog computing 
 environments. This research addresses the critical and growing challenges of energy consumption and 
 task offloading within the expanding realm of Industrial Internet of Things (IIoT). Despite the 
