@@ -23,6 +23,7 @@ Service (QoS) by meeting stringent energy constraints by illustrating the effect
 learning models for intelligent resource management and task offloading in fog-cloud environments, this 
 work provides a foundation for developing more sustainable and efficient industrial automation and smart 
 environment solutions.
+```
 
 ![IoT and Fog Computing](https://github.com/SJMcode/iot-edge-cloud-framework/blob/main/documents/IoT_fog.jpg)
 
