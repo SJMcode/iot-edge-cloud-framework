@@ -1,5 +1,5 @@
 # IoT Edge-Cloud Collaborative Framework
-This project focuses on developing an intelligent framework that optimizes resource collaboration between edge and cloud computing for IoT applications.
+Master's Thesis project focuses on developing an intelligent framework that optimizes resource collaboration between edge and cloud computing for Smart IoT applications.
 
 ## Abstract
 ```
