@@ -4,5 +4,4 @@ This project focuses on developing an intelligent framework that optimizes resou
 ## Features
 - Simulates IoT devices and their data generation.
 - Implements task scheduling and computation offloading.
-- Includes an ETL pipeline for data management.
 - Visualizes performance metrics like latency and resource utilization.
