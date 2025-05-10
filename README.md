@@ -28,5 +28,7 @@ environment solutions.
 ![IoT and Fog Computing](https://github.com/SJMcode/iot-edge-cloud-framework/blob/main/documents/IoT_fog.jpg)
 
 ![Energy comparison of ML_based approach and baseline algorithms](https://github.com/SJMcode/iot-edge-cloud-framework/blob/main/documents/Ml_based_approach.jpg)
-![Thesis document](https://github.com/SJMcode/iot-edge-cloud-framework/blob/main/documents/Thesis-v1.5.pdf)
+
+
+<iframe src="https://github.com/SJMcode/iot-edge-cloud-framework/blob/main/documents/Thesis-v1.5.pdf" width="100%" height="500" frameborder="0" />
 
