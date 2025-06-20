@@ -41,7 +41,7 @@ The implications of these findings are substantial for the design and deployment
 
 - **Offloading** plays a vital role by transferring data processing to resource-rich remote devices.
 
-
+![Presentation](https://github.com/SJMcode/iot-edge-cloud-framework/blob/main/documents/Edge-Cloud%20Collaborative%20Framework%20for%20Smart%20IoT%20Applications.gif)
 
 
   
