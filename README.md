@@ -24,6 +24,10 @@ learning models for intelligent resource management and task offloading in fog-c
 work provides a foundation for developing more sustainable and efficient industrial automation and smart 
 environment solutions.
 ```
+- Internet of Things (IoT) has rapidly transformed various industries, including smart cities, healthcare etc.
+- The Industrial Internet of Things (IIoT) extends these benefits to industrial applications, revolutionizing manufacturing, supply chain management, and industrial processes through automation
+- Business use case in the IIoT space comes from a smart city project in the Netherlands. Streetlights are intelligently controlled based on real-time needs — such as traffic movement or pedestrian presence.
+![image](https://github.com/user-attachments/assets/0217630f-e102-4122-a0ee-f154d66a5b84)
 
 ![IoT and Fog Computing](https://github.com/SJMcode/iot-edge-cloud-framework/blob/main/documents/IoT_fog.jpg)
 
