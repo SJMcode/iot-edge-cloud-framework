@@ -6,7 +6,8 @@ An ML-based Task offloading Framework for Energy-Efficient Fog Computing in IIoT
 
 ## Authors
 
-- [@Safir](https://www.github.com/sjmcode)
+- [@Safir Jameel](https://www.github.com/sjmcode)
+- _Mater Thesis_
 
 
 ### Abstract
